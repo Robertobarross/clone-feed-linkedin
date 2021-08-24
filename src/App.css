@@ -1,0 +1,227 @@
+/* -------------------------------------------------------- */
+/* Estilizando o Body e o Topo */
+.body{
+  width: 100%;
+  height: 1800px;
+  background-color: #DCDCDC;
+}
+
+.topo{
+  width: 100%;
+  height: 60px;
+  background-color: #00BFFF;
+}
+
+.logo{
+  width: 40px;
+  margin-top: 10px;
+  margin-left: 200px;
+  border: 2px solid gray;
+  border-radius: 5px;
+}
+
+.titulo{
+  font-size: 30px;
+  font-family: Arial;
+  margin: 10px;
+}
+/* ---------------------------------------------------------- */
+
+
+/* ---------------------------------------------------------- */
+/* Estilizando o Menu */
+.menu{
+  border: 1px solid #00BFFF;
+  width: 70%;
+  height: 70px;
+  margin-top: 25px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 5px;
+  background-color: #00BFFF;
+}
+
+.links{
+  font-size: 15px;
+  font-family: Arial;
+  color: gray;
+  text-decoration: none;
+}
+
+.imglinks{
+  width: 30px;
+  margin-top: 20px;
+  margin-left: 80px;
+  border: 1px solid gray;
+  border-radius: 10px;
+}
+
+.select{
+  font-size: 15px;
+  font-family: Arial;
+  background-color: #00BFFF;
+  border-color: #00BFFF;
+}
+/* ---------------------------------------------------------- */
+
+
+/* ---------------------------------------------------------- */
+/* Estilizando o Perfil */
+.perfil{
+  width: 20%;
+  height: 500px;
+  border: 1px solid #DCDCDC;
+  border-radius: 10px;
+  margin-left: 200px;
+  margin-top: 20px;
+  background-color: #00BFFF;
+}
+
+.img-dev-web{
+  width: 100%;
+  height: 70px;
+  border-radius: 10px;
+}
+
+.foto-perfil{
+  width: 100px;
+  margin-top: -60px;
+  margin-left: 80px;
+  border: 4px solid #00BFFF;
+  border-radius: 50px;
+}
+
+.nome{
+  font-size: 15px;
+  font-family: Arial;
+  text-align: center;
+}
+
+.titulo-perfil{
+  font-size: 12px;
+  font-family: Arial;
+  text-align: center;
+  color: #DCDCDC;
+  margin: 10px;
+}
+
+.linha{
+  width: 100%;
+  border: 1px solid #DCDCDC;
+  margin-top: 30px;
+}
+/* ---------------------------------------------------------- */
+
+
+/* ---------------------------------------------------------- */
+/* Estilzando a div pequisar */
+.pesquisar{
+  width: 47%;
+  height: 70px;
+  border: 1px solid white;
+  border-radius: 5px;
+  float: right;
+  margin-top: -500px;
+  margin-right: 200px;
+}
+
+.pesquisa{
+  width: 70%;
+  height: 20px;
+  margin-left: 85px;
+  margin-top: 25px;
+  border-radius: 50px;
+  border-color: #E0FFFF;
+  font-size: 15px;
+  font-family: Arial;
+  background-color: #E0FFFF;
+}
+/* ---------------------------------------------------------- */
+
+
+/* ---------------------------------------------------------- */
+/* Estilzando a div publicar */
+.publicar{
+  width: 47%;
+  height: 100px;
+  border: 1px solid white;
+  border-radius: 5px;
+  float: right;
+  margin-top: -400px;
+  margin-right: 200px; 
+}
+
+.publica{
+  width: 70%;
+  height: 20px;
+  margin-left: 85px;
+  margin-top: 25px;
+  border-radius: 50px;
+  border-color: #E0FFFF;
+  font-size: 15px;
+  font-family: Arial;
+  background-color: #E0FFFF;
+}
+
+.foto1{
+  width: 20px;
+  margin-left: 80px;
+  border: 1px solid #00BFFF;
+  border-radius: 5px;
+}
+/* ---------------------------------------------------------- */
+
+
+/* ---------------------------------------------------------- */
+/* Estilizando a div feed */
+.feed{
+  width: 47%;
+  height: auto;
+  border: 1px solid white;
+  border-radius: 5px;
+  float: right;
+  margin-top: -260px;
+  margin-right: 200px; 
+}
+
+.foto-feed{
+  width: 50px;
+  margin: 15px;
+}
+
+.nome-feed{
+  font-size: 12px;
+  font-family: Arial;
+  color: gray;
+  margin-top: -60px;
+  margin-left: 80px;
+}
+
+.nome2-feed{
+  font-size: 10px;
+  font-family: Arial;
+  color: gray;
+  margin-left: 80px;
+}
+
+.form{
+  width: 80%;
+  height: auto;
+  font-size: 10px;
+  font-family: Arial;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.img-post{
+  width: 630px;
+  margin-left: -18px;
+  margin-top: 20px;
+}
+
+.opcoes{
+  width: 30px;
+  margin-top: 30px;
+  margin-left: 100px;
+}
+/* ---------------------------------------------------------- */
